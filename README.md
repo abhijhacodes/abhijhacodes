@@ -10,14 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhitics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="abhitics" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-jha-3867b4205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-jha-3867b4205" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi.jha25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="abhi.jha25" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhi_jha25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_jha25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhi_jha25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="abhi_jha25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhi_jha25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abhi_jha25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_jha25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="abhi_jha25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<abhijha>/https://auth.geeksforgeeks.org/user/abhijha/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="<abhijha>/https://auth.geeksforgeeks.org/user/abhijha/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/0982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="0982" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
