@@ -5,4 +5,4 @@
 - 📫 How to reach me -> drop me a mail at abhi.jha.cs@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijhacodes&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijhacodes&show_icons=true&theme=cobalt)
