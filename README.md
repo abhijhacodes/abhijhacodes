@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me -> drop me a mail at abhi.jha.cs@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijhacodes&label=Profile%20views&color=129e00&style=plastic" alt="Abhi jha" /> </p>
 
 ![git-readme](https://user-images.githubusercontent.com/77770628/119362978-ef59fd80-bcca-11eb-8066-9d6470996f8d.png)
 
