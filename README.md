@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Jha
-- 🚀 I'm currently a Research Intern at [Microsoft](https://www.microsoft.com/)
-- 🖥️ I’ve previously worked as SDE Intern at [Setu](https://www.setu.co/)
+- 🚀 I'm currently a Software Engineer (Full stack) at [Setu](https://www.setu.co/)
+- 🖥️ I’ve previously worked as Research Intern at [Microsoft](https://www.microsoft.com/) and as SDE Intern (Frontend) at [Setu](https://www.setu.co/)
 - 👨‍💻 I've worked across multiple tech stacks and domains including Frontend, Backend, Mobile, DS/ML
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 If you have any interesting project idea and need help building it, shoot me an email at abhi.jha.cs@gmail.com
